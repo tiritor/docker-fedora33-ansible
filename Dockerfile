@@ -1,5 +1,5 @@
-FROM fedora:33
-LABEL maintainer="Shane Frasier"
+FROM fedora:34
+LABEL maintainer="Timo Geier"
 ENV container=docker
 
 ENV pip_packages "ansible"

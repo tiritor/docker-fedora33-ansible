@@ -1,6 +1,6 @@
-# Fedora 33 Ansible Test Image #
+# Fedora Ansible Test Image #
 
-Fedora 33 Docker container for Ansible playbook and role testing.
+Fedora Docker container for Ansible playbook and role testing.
 
 ## How to Build ##
 
@@ -21,7 +21,9 @@ If you need to build the image on your own locally, do the following:
 
 ## Author Information ##
 
-Shane Frasier - <jeremy.frasier@trio.dhs.gov>
+This was originated by:
+
+Shane Frasier - <jeremy.frasier@trio.dhs.gov> [from here](https://github.com/cisagov/docker-fedora33-ansible)
 
 Heavily based on
 [geerlingguy/docker-fedora32-ansible](https://github.com/geerlingguy/docker-fedora32-ansible)
